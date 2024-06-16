@@ -1,0 +1,32 @@
+{
+  "temperature": 0.0,
+  "downfall": 0.5,
+  "has_precipitation": true,
+  "temperature_modifier": "frozen",
+  "effects": {
+    "sky_color": 11061247,
+    "fog_color": 15528959,
+    "water_color": 8496365,
+    "water_fog_color": 4803053,
+    "grass_color": 14937827,
+    "foliage_color": 13492429,
+    "grass_color_modifier": "none",
+    "ambient_sound": "minecraft:item.elytra.flying",
+    "mood_sound": {
+      "sound": "minecraft:entity.wither.ambient",
+      "tick_delay": 600,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:snowflake"
+      },
+      "probability": 0.05
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}
