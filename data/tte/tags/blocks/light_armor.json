@@ -1,0 +1,14 @@
+{
+  "values" : [
+    "#minecraft:concrete",
+    "#minecraft:concrete_powder",
+    "#minecraft:terracotta",
+    "#minecraft:glazed_terracotta",
+    "#minecraft:walls",
+    "#tte:light_armor_slabs",
+    "#tte:light_armor_stairs",
+    "minecraft:lodestone",
+    "minecraft:smooth_stone"
+  ]
+}
+
