@@ -1,6 +1,10 @@
 {
   "values" : [
-    "redstone_block"
+    "redstone_block",
+    "pearlescent_froglight",
+    "verdant_froglight",
+    "ochre_froglight",
+    "sea_lantern"
   ]
 }
 
