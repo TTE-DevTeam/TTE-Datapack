@@ -1,0 +1,16 @@
+{
+  "values": [
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    "#minecraft:planks",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_stairs",
+    "#minecraft:wooden_fences",
+    "#minecraft:wooden_doors",
+    "#minecraft:wooden_trapdoors",
+    "#minecraft:beds",
+    "#minecraft:logs_that_burn",
+    "minecraft:light",
+    "minecraft:structure_void"
+  ]
+}

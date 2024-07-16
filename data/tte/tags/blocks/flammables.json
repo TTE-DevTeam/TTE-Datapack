@@ -1,0 +1,30 @@
+{
+  "values": [
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    "#minecraft:planks",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_stairs",
+    "#minecraft:wooden_fences",
+    "#minecraft:wooden_doors",
+    "#minecraft:wooden_trapdoors",
+    "#minecraft:beds",
+    "minecraft:coal_block",
+    "minecraft:target",
+    "minecraft:dried_kelp_block",
+    "#minecraft:logs_that_burn",
+    "#minecraft:leaves",
+    "minecraft:acacia_fence_gate",
+    "minecraft:birch_fence_gate",
+    "minecraft:dark_oak_fence_gate",
+    "minecraft:jungle_fence_gate",
+    "minecraft:mangrove_fence_gate",
+    "minecraft:oak_fence_gate",
+    "minecraft:spruce_fence_gate",
+    "#minecraft:all_signs",
+    "minecraft:bookshelf",
+    "minecraft:crafting_table",
+    "minecraft:ladder",
+    "minecraft:scaffolding"
+  ]
+}
