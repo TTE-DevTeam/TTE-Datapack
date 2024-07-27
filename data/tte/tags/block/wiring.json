@@ -31,6 +31,8 @@
     "minecraft:note_block",
     "#minecraft:rails",
     "minecraft:sculk_sensor",
-    "minecraft:sculk_shrieker"
+    "minecraft:sculk_shrieker",
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:crafter"
   ]
 }
