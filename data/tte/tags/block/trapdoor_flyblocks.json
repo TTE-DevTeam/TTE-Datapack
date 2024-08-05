@@ -1,6 +1,6 @@
 {
   "values": [
-    "#minecraft:wooden_doors",
-    "#minecraft:wooden_trapdoors"
+    "#tte:flammable/doors",
+    "#tte:flammable/trapdoors"
   ]
 }
