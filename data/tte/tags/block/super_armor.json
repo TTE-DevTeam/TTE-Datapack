@@ -2,6 +2,7 @@
   "values": [
     "minecraft:obsidian",
     "minecraft:diamond_block",
-    "minecraft:reinforced_deepslate"
+    "minecraft:reinforced_deepslate",
+	"#tte:uber_armor"
   ]
 }
