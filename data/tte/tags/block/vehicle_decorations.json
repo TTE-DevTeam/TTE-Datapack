@@ -43,6 +43,7 @@
 	"#minecraft:beds",
 	"#minecraft:candles",
 	"#minecraft:banners",
-	"#minecraft:fences"
+	"#minecraft:fences",
+	"minecraft:end_rod"
   ]
 }

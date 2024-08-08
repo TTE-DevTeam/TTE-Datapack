@@ -4,6 +4,7 @@
     "minecraft:coal_block",
     "minecraft:target",
     "minecraft:dried_kelp_block",
-    "minecraft:beacon"
+    "minecraft:beacon",
+	"minecraft:sniffer_egg"
   ]
 }

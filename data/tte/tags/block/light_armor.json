@@ -7,6 +7,8 @@
     "#minecraft:walls",
     "#tte:light_armor_slabs",
     "#tte:light_armor_stairs",
+	"minecraft:raw_gold_block",
+	"minecraft:raw_copper_block",
     "minecraft:lodestone",
     "minecraft:smooth_stone",
     "minecraft:copper_block",

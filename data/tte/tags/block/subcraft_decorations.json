@@ -18,6 +18,7 @@
 	"#minecraft:shulker_boxes",
 	"#minecraft:chests",
 	"#minecraft:beds",
-	"minecraft:glowstone"
+	"minecraft:glowstone",
+	"minecraft:end_rod"
   ]
 }
