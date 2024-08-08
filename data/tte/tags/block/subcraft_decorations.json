@@ -1,0 +1,23 @@
+{
+  "values": [
+    "#minecraft:all_signs",
+    "minecraft:ladder",
+    "minecraft:scaffolding",
+	"#minecraft:smelter",
+	"#minecraft:doors",
+	"#minecraft:trapdoors",
+	"#minecraft:rails",
+	"#minecraft:heads",
+	"minecraft:chain",
+	"#minecraft:anvil",
+	"minecraft:grindstone",
+	"minecraft:cauldron",
+	"minecraft:brewing_stand",
+	"minecraft:note_block",
+	"minecraft:tinted_glass",
+	"#minecraft:shulker_boxes",
+	"#minecraft:chests",
+	"#minecraft:beds",
+	"minecraft:glowstone"
+  ]
+}
