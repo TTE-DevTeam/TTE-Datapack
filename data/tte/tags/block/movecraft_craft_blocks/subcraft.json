@@ -1,0 +1,31 @@
+{
+  "values": [
+    "#tte:engines",
+	"#tte:light_armor_slabs",
+	"#tte:munitions",
+	"#tte:wiring",
+	"#tte:subcraft_decorations",
+	"#minecraft:water",
+	"#minecraft:lava",
+	"#minecraft:wool_carpets",
+	"minecraft:powder_snow",
+	"minecraft:snow",
+	"minecraft:soul_sand",
+	"minecraft:magma_block",
+	"minecraft:soul_soil",
+	"minecraft:bubble_column"
+	"minecraft:light_gray_terracotta",
+	"minecraft:gray_terracotta",
+	"minecraft:black_terracotta",
+	"minecraft:nether_brick_stairs",
+	"minecraft:oak_stairs",
+	"#minecraft:wooden_stairs",
+	"#minecraft:chests",
+	"minecraft:cake",
+	"minecraft:light_gray_wool",
+	"#minecraft:impermeable",
+	"#minecraft:fences",
+	"#minecraft:fence_gates",
+	"#minecraft:walls"
+  ]
+}

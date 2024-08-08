@@ -1,0 +1,18 @@
+{
+  "values": [
+    "#tte:flyblocks",
+    "#tte:engines",
+	"#tte:armor",
+	"#tte:munitions",
+	"#tte:wiring",
+	"#tte:decorations",
+	"#minecraft:water",
+	"#minecraft:lava",
+	"minecraft:powder_snow",
+	"minecraft:snow",
+	"minecraft:soul_sand",
+	"minecraft:magma_block",
+	"minecraft:soul_soil",
+	"minecraft:bubble_column"
+  ]
+}
