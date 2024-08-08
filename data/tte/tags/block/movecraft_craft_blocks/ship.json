@@ -12,6 +12,6 @@
 	"minecraft:soul_sand",
 	"minecraft:magma_block",
 	"minecraft:soul_soil",
-	"minecraft:fire"
+	"#minecraft:fire"
   ]
 }
