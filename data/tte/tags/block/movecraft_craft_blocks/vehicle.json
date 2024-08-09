@@ -1,6 +1,15 @@
 {
   "values": [
-    "#tte:flyblocks",
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    "#tte:flammable/slabs",
+    "#tte:flammable/stairs",
+    "#tte:flammable/fences",
+	"#tte:flammable/fence_gates",
+    "#minecraft:logs_that_burn",
+    "#tte:trapdoor_flyblocks",
+    "minecraft:light",
+    "minecraft:structure_void",
     "#tte:engines",
 	"#tte:armor",
 	"#tte:munitions",
