@@ -18,8 +18,8 @@
 	"#tte:munitions",
 	"#tte:wiring",
 	"#tte:skiff_decorations",
-	"#minecraft:water",
-	"#minecraft:lava",
+	"minecraft:water",
+	"minecraft:lava",
 	"#minecraft:doors",
 	"#minecraft:trapdoors",
 	"#minecraft:fire"
