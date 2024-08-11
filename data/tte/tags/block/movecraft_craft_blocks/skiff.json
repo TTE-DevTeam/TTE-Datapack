@@ -13,7 +13,7 @@
 	"#minecraft:fences",
 	"#minecraft:fence_gates",
     "minecraft:light",
-    "minecraft:structure_void"
+    "minecraft:structure_void",
     "#tte:engines",
 	"#tte:munitions",
 	"#tte:wiring",
