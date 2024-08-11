@@ -36,6 +36,7 @@
 	"#minecraft:banners",
 	"#minecraft:fences",
 	"#minecraft:fence_gates",
-	"minecraft:end_rod"
+	"minecraft:end_rod",
+	"minecraft:gold_block"
   ]
 }
