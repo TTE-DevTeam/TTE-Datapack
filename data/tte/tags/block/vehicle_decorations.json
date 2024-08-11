@@ -44,6 +44,8 @@
 	"#minecraft:candles",
 	"#minecraft:banners",
 	"#minecraft:fences",
-	"minecraft:end_rod"
+	"minecraft:end_rod",
+	"minecraft:gold_block",
+	"minecraft:hay_block"
   ]
 }
