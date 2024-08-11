@@ -5,6 +5,9 @@
     "minecraft:iron_door",
     "minecraft:iron_trapdoor",
     "minecraft:netherite_block",
-    "minecraft:raw_iron_block"
+    "minecraft:raw_iron_block",
+	"minecraft:tuff_slab",
+	"minecraft:tuff_stairs",
+	"minecraft:tuff_wall"
   ]
 }
