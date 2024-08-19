@@ -28,6 +28,7 @@
 	"#minecraft:fence_gates",
 	"#minecraft:walls",
 	"#minecraft:fire",
-	"minecraft:iron_bars"
+	"minecraft:iron_bars",
+	"#tte:flammable/slabs"
   ]
 }
