@@ -1,7 +1,7 @@
 {
   "values": [
     "#tte:engines",
-	"#minecraft:slabs",
+	"#tte:light_armor_slabs",
 	"#tte:munitions",
 	"#tte:subcraft_wiring",
 	"#tte:subcraft_decorations",
