@@ -50,6 +50,7 @@
 	"minecraft:moss_block",
 	"minecraft:end_rod",
 	"minecraft:gold_block",
-	"minecraft:hay_block"
+	"minecraft:hay_block",
+	"minecraft:ender_chest"
   ]
 }
