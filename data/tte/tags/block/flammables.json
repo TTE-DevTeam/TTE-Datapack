@@ -25,6 +25,7 @@
     "minecraft:bookshelf",
     "minecraft:crafting_table",
     "minecraft:ladder",
-    "minecraft:scaffolding"
+    "minecraft:scaffolding",
+	"#tte:flammable/containers"
   ]
 }
