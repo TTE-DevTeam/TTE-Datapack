@@ -23,6 +23,8 @@
 	"minecraft:gold_block",
 	"minecraft:hay_block",
 	"#minecraft:glass",
-	"minecraft:snow"
+	"minecraft:snow",
+	"#minecraft:banners",
+	"minecraft:polished_basalt"
   ]
 }
