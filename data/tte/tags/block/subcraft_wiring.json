@@ -28,7 +28,7 @@
     "#minecraft:cauldrons",
     "minecraft:composter",
     "minecraft:note_block",
-    "#minecraft:rails",
+    "minecraft:powered_rail",
     "minecraft:sculk_sensor",
     "minecraft:sculk_shrieker",
     "minecraft:calibrated_sculk_sensor",
