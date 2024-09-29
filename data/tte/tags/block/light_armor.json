@@ -41,7 +41,10 @@
     "minecraft:oxidized_chiseled_copper",
     "minecraft:chiseled_tuff",
     "minecraft:chiseled_tuff_bricks",
-	"minecraft:crimson_fence_gate"
+	"minecraft:crimson_fence_gate",
+	"minecraft:gilded_blackstone",
+	"minecraft:basalt",
+	"minecraft:polished_basalt"
   ]
 }
 
