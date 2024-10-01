@@ -55,7 +55,6 @@
     "minecraft:nether_wart",
     "minecraft:lily_pad",
     "minecraft:sculk_vein",
-    "minecraft:cobweb",
-	"#minecraft:fire"
+    "minecraft:cobweb"
   ]
 }
