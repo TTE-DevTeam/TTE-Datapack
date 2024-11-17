@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:cave_air",
+    "minecraft:glow_lichen",
+    "#minecraft:crops",
+    "minecraft:vine",
+    "minecraft:twisting_vines",
+    "minecraft:twisting_vines_plant",
+    "minecraft:weeping_vines",
+    "minecraft:weeping_vines_plant",
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "#minecraft:flowers",
+    "minecraft:sugar_cane",
+    "minecraft:sculk_vein"
+  ]
+}
