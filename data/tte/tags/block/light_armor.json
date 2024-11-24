@@ -45,7 +45,14 @@
 		"minecraft:gilded_blackstone",
 		"minecraft:basalt",
 		"minecraft:polished_basalt",
-		"minecraft:chiseled_deepslate"
+		"minecraft:chiseled_deepslate",
+		"minecraft:quartz_bricks",
+	"minecraft:quartz_pillar",
+	"minecraft:chiseled_quartz_block",
+	"minecraft:lapis_block",
+	"minecraft:calcite",
+	"minecraft:chiseled_stone_bricks",
+	"minecraft:polished_basalt"
 	]
 }
 
