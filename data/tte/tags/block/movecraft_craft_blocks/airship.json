@@ -14,13 +14,6 @@
 	"minecraft:magma_block",
 	"minecraft:soul_soil",
 	"minecraft:bubble_column",
-	"#minecraft:fire",
-	"minecraft:quartz_bricks",
-	"minecraft:quartz_pillar",
-	"minecraft:chiseled_quartz_block",
-	"minecraft:lapis_block",
-	"minecraft:calcite",
-	"minecraft:chiseled_stone_bricks",
-	"minecraft:polished_basalt"
+	"#minecraft:fire"
   ]
 }
