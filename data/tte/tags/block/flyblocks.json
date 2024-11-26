@@ -4,7 +4,6 @@
     "#minecraft:wool_carpets",
     "#tte:wooden_flyblocks",
     "#tte:trapdoor_flyblocks",
-    "minecraft:light",
-    "minecraft:structure_void"
+    "minecraft:light"
   ]
 }
