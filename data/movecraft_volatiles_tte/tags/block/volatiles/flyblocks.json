@@ -2,7 +2,6 @@
   "values": [
     "#minecraft:wool",
     "#minecraft:wool_carpets",
-    "minecraft:light",
-    "minecraft:structure_void"
+    "minecraft:light"
   ]
 }
