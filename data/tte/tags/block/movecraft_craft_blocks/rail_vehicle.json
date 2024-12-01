@@ -1,0 +1,28 @@
+{
+  "values": [
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    "#tte:flammable/slabs",
+    "#tte:flammable/stairs",
+    "#tte:flammable/fences",
+	"#tte:flammable/fence_gates",
+    "#minecraft:logs_that_burn",
+    "#tte:trapdoor_flyblocks",
+    "minecraft:light",
+    "#tte:engines",
+	"#tte:armor",
+	"#tte:munitions",
+	"#tte:wiring",
+	"#tte:rail_vehicle_decorations",
+	"minecraft:water",
+	"minecraft:lava",
+	"minecraft:powder_snow",
+	"minecraft:snow",
+	"minecraft:soul_sand",
+	"minecraft:magma_block",
+	"minecraft:soul_soil",
+	"minecraft:bubble_column",
+	"#minecraft:fire",
+	"minecraft:polished_basalt"
+  ]
+}
