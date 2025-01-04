@@ -1,5 +1,5 @@
 {
-  "temperature": 1.0,
+  "temperature": 1,
   "downfall": 0.125,
   "has_precipitation": false,
   "temperature_modifier": "none",
@@ -31,6 +31,6 @@
   },
   "spawners": {},
   "spawn_costs": {},
-  "carvers": {},
+  "carvers": [],
   "features": []
 }
