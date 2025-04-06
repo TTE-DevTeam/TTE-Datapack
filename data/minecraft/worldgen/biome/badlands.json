@@ -1,31 +1,40 @@
 {
-  "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon"
-    ]
-  },
-  "downfall": 0.0,
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
+  "creature_spawn_probability": 0.03,
+  "downfall": 0,
   "effects": {
     "fog_color": 16685889,
     "foliage_color": 10387789,
     "grass_color": 9470285,
     "mood_sound": {
       "block_search_extent": 8,
-      "offset": 2.0,
+      "offset": 2,
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
+    "music": [
+      {
+        "data": {
+          "max_delay": 24000,
+          "min_delay": 12000,
+          "replace_current_music": false,
+          "sound": "minecraft:music.overworld.badlands"
+        },
+        "weight": 1
+      }
+    ],
+    "music_volume": 1,
     "sky_color": 16685889,
     "water_color": 4159204,
     "water_fog_color": 329011,
     "particle": {
       "options": {
         "type": "minecraft:falling_dust",
-        "block_state": {
-          "Name": "minecraft:red_sand"
-        }
+        "block_state": "red_sand"
       },
       "probability": 0.025
     }
@@ -65,6 +74,7 @@
       "minecraft:ore_redstone",
       "minecraft:ore_redstone_lower",
       "minecraft:ore_diamond",
+      "minecraft:ore_diamond_medium",
       "minecraft:ore_diamond_large",
       "minecraft:ore_diamond_buried",
       "minecraft:ore_lapis",
@@ -95,7 +105,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "precipitation": "none",
+  "has_precipitation": false,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -107,7 +117,14 @@
       }
     ],
     "axolotls": [],
-    "creature": [],
+    "creature": [
+      {
+        "type": "minecraft:armadillo",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 6
+      }
+    ],
     "misc": [],
     "monster": [
       {
@@ -170,5 +187,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 2.0
+  "temperature": 2
 }
