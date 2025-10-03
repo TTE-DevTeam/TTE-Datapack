@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 61,
-    "description": "A data pack providing biomes"
+    "pack_format": 81,
+    "description": "A data pack providing biomes and blocktags"
   }
 }
