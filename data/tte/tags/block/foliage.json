@@ -54,6 +54,13 @@
     "minecraft:nether_wart",
     "minecraft:lily_pad",
     "minecraft:sculk_vein",
-    "minecraft:cobweb"
+    "minecraft:cobweb",
+    "minecraft:pale_moss_carpet",
+    "minecraft:pale_hanging_moss",
+    "minecraft:leaf_litter",
+    "minecraft:tall_dry_grass",
+    "minecraft:short_dry_grass",
+    "minecraft:firefly_bush",
+    "minecraft:bush"
   ]
 }
