@@ -30,6 +30,10 @@
 	"#minecraft:walls",
 	"#minecraft:fire",
 	"minecraft:iron_bars",
-	"#tte:flammable/slabs"
+	"#tte:flammable/slabs",
+	"minecraft:copper_grate",
+	"minecraft:exposed_copper_grate",
+	"minecraft:weathered_copper_grate",
+	"minecraft:oxidizedcopper_grate"
   ]
 }
