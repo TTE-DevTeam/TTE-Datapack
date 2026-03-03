@@ -3,9 +3,6 @@
 	"#tte:light_armor_slabs",
 	"#tte:light_armor_stairs",
 	"#tte:subcraft_decorations",
-	"#minecraft:wool_carpets",
-	"#tte:slabs",
-	"#tte:flammable/slabs",
-	"#tte:flammable/stairs"
+	"minecraft:tuff_slab"
   ]
 }
