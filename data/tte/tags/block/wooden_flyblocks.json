@@ -5,6 +5,7 @@
     "#tte:flammable/stairs",
     "#tte:flammable/fences",
     "#tte:flammable/fence_gates",
+    "#tte:flammable/shelves",
     "#minecraft:logs_that_burn",
     "#minecraft:beds"
   ]
