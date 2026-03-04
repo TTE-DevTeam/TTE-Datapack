@@ -55,15 +55,7 @@
 		"minecraft:lapis_block",
 		"minecraft:calcite",
 		"minecraft:chiseled_stone_bricks",
-		"minecraft:polished_basalt",
-		"minecraft:copper_chain",
-		"minecraft:exposed_copper_chain",
-		"minecraft:weathered_copper_chain",
-		"minecraft:oxidized_copper_chain",
-		"minecraft:copper_bars",
-		"minecraft:exposed_copper_bars",
-		"minecraft:weathered_copper_bars",
-		"minecraft:oxidized_copper_bars"
+		"minecraft:polished_basalt"
 	]
 }
 

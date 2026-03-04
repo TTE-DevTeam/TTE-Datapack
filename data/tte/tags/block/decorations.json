@@ -11,7 +11,7 @@
 	"#minecraft:trapdoors",
 	"#minecraft:rails",
 	"#minecraft:heads",
-	"minecraft:iron_chain",
+	"minecraft:chain",
 	"minecraft:campfire",
 	"minecraft:torch",
 	"minecraft:wall_torch",
@@ -51,12 +51,6 @@
 	"minecraft:end_rod",
 	"minecraft:gold_block",
 	"minecraft:hay_block",
-	"minecraft:ender_chest",
-    "minecraft:copper_lantern",
-    "minecraft:exposed_copper_lantern",
-    "minecraft:weathered_copper_lantern",
-    "minecraft:oxidized_copper_lantern",
-	"minecraft:copper_torch",
-	"minecraft:copper_wall_torch"
+	"minecraft:ender_chest"
   ]
 }
