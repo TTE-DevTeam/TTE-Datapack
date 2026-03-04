@@ -1,6 +1,8 @@
 {
   "pack": {
     "pack_format": 94.1,
+    "min_format": [94.1],
+    "max_foprmat": [95],
     "description": "A data pack providing biomes and blocktags"
   }
 }
