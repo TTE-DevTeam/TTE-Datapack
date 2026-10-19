@@ -57,6 +57,7 @@
     "minecraft:weathered_copper_lantern",
     "minecraft:oxidized_copper_lantern",
 	"minecraft:copper_torch",
-	"minecraft:copper_wall_torch"
+	"minecraft:copper_wall_torch",
+	"minecraft:straw_bed"
   ]
 }

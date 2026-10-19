@@ -38,7 +38,14 @@
     "minecraft:weathered_cut_copper_stairs",
     "minecraft:oxidized_cut_copper_stairs",
     "minecraft:polished_tuff_stairs",
-    "minecraft:tuff_brick_stairs"
+    "minecraft:tuff_brick_stairs",
+    "#minecraft:concrete_stairs",
+    "minecraft:cinnabar_stairs",
+    "minecraft:polished_cinnabar_stairs",
+    "minecraft:cinnabar_brick_stairs",
+    "minecraft:sulfur_stairs",
+    "minecraft:polished_sulfur_stairs",
+    "minecraft:sulfur_brick_stairs"
   ]
 }
 

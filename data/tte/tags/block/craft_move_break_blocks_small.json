@@ -14,6 +14,14 @@
     "minecraft:large_fern",
     "#minecraft:flowers",
     "minecraft:sugar_cane",
-    "minecraft:sculk_vein"
+    "minecraft:sculk_vein",
+	"minecraft:red_shrub",
+	"minecraft:shelf_mushroom",
+	"minecraft:bush",
+	"minecraft:sweet_berry_bush",
+	"minecraft:firefly_bush",
+	"minecraft:dead_bush",
+	"minecraft:pale_moss_carpet",
+	"minecraft:pale_hanging_moss"
   ]
 }

@@ -42,7 +42,14 @@
     "minecraft:weathered_cut_copper_slab",
     "minecraft:oxidized_cut_copper_slab",
     "minecraft:polished_tuff_slab",
-    "minecraft:tuff_brick_slab"
+    "minecraft:tuff_brick_slab",
+    "#minecraft:concrete_slabs",
+    "minecraft:cinnabar_slab",
+    "minecraft:polished_cinnabar_slab",
+    "minecraft:cinnabar_brick_slab",
+    "minecraft:sulfur_slab",
+    "minecraft:polished_sulfur_slab",
+    "minecraft:sulfur_brick_slab"
   ]
 }
 

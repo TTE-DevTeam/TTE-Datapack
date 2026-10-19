@@ -63,7 +63,9 @@
 		"minecraft:copper_bars",
 		"minecraft:exposed_copper_bars",
 		"minecraft:weathered_copper_bars",
-		"minecraft:oxidized_copper_bars"
+		"minecraft:oxidized_copper_bars",
+		"minecraft:chiseled_cinnabar",
+		"minecraft:chiseled_sulfur"
 	]
 }
 

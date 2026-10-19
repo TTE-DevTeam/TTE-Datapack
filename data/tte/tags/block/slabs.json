@@ -1,6 +1,7 @@
 {
   "values": [
     "#minecraft:wooden_slabs",
+    "#minecraft:wool_slabs",
     "minecraft:bamboo_mosaic_slab",
     "minecraft:stone_slab",
     "minecraft:smooth_stone_slab",
@@ -48,6 +49,13 @@
     "minecraft:mud_brick_slab",
     "minecraft:tuff_slab",
     "minecraft:polished_tuff_slab",
-    "minecraft:tuff_brick_slab"
+    "minecraft:tuff_brick_slab",
+    "#minecraft:concrete_slabs",
+    "minecraft:cinnabar_slab",
+    "minecraft:polished_cinnabar_slab",
+    "minecraft:cinnabar_brick_slab",
+    "minecraft:sulfur_slab",
+    "minecraft:polished_sulfur_slab",
+    "minecraft:sulfur_brick_slab"
   ]
 }
