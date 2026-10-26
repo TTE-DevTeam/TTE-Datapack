@@ -1,6 +1,7 @@
 {
   "values": [
     "#minecraft:wool",
+    "#minecraft:wool_slabs",
     "#minecraft:wool_carpets",
     "#tte:wooden_flyblocks",
     "#tte:trapdoor_flyblocks",
